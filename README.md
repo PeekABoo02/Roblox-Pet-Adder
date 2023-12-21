@@ -10,4 +10,4 @@ Drag the PetAdder.crx from the zip you downloaded and drag it to the extensions 
 
 You can turn off the developer mode after this if you want.
 
-https://discordapp.com/users/peekaboo02
+If something is not working, feel free to reach out to me in discord. https://discordapp.com/users/peekaboo02
