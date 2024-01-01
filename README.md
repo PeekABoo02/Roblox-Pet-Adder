@@ -1,5 +1,8 @@
 Fixed extension, enjoy.
 
+UPDATE 3.0
+New design added by requests, if you have questions write me on discord.
+
 UPDATE 2.0
 Here's the updated version. This time you get Nice icons for the pets.
 thank you guys for the feedback's on discord!
