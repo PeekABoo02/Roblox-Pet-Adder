@@ -1,6 +1,6 @@
 If something is not working, feel free to reach out to me in discord. https://discordapp.com/users/peekaboo02
 
-Fixed extension, enjoy.
+Update huges are going to be in my extension, be ready! 
 
 UPDATE 3.0
 New design added by requests, if you have questions write me on discord.
